@@ -1,4 +1,4 @@
-# 👩‍💻 Coding Club
+#  Coding Club
 
 Welcome to my **Coding Club** repository! 🚀
 
@@ -8,7 +8,7 @@ The main goal of this repository is to **practice consistently, improve problem-
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi! I'm **Saranya Reddy Chamala**, a Computer Science Engineering student at **SRM University-AP**.
 
