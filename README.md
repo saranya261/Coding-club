@@ -16,9 +16,9 @@ I am interested in **software development, problem solving, databases, and data-
 
 ### 🔗 Profiles
 
-* **LinkedIn:** [Saranya Reddy Chamala](YOUR_LINKEDIN_URL)
-* **LeetCode:** [saranya261](YOUR_LEETCODE_URL)
-* **GitHub:** [saranya261](YOUR_GITHUB_URL)
+* **LinkedIn:** [Saranya Reddy Chamala](https://www.linkedin.com/in/saranya-chamala-3930a5324/)
+* **LeetCode:** [saranya261](https://leetcode.com/u/saranya_2028/)
+* **GitHub:** [saranya261](https://github.com/saranya261)
 
 ---
 
