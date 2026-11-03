@@ -4,11 +4,11 @@ This file maintains a record of all LeetCode problems solved, along with their d
 
 ## Problems Solved
 
-| S.No. | Date | Problem Name | LeetCode | Difficulty | Topic | Solution |
+| S.No. | Date | Problem Name | LeetCode | Difficulty | Category / Topic | Solution |
 |---|---|---|---|---|---|---|
-| 1 | 03-11-2026 | Majority Element | #169 | Easy | Boyer-Moore Voting | [View](MajorityElement169.md) |
-| 2 | 03-11-2026 | Minimum Value to Get Positive Step by Step Sum | #1413 | Easy | Prefix Sum | [View](MinimumValue1413.md) |
-| 3 | 03-11-2026 | Left and Right Sum Differences | #2574 | Easy | Prefix Sum | [View](LeftRightSumDifferences2574.md) |
+| 1 | 03-11-2026 | Majority Element | #169 | Easy | Array / Boyer-Moore Voting | [View](MajorityElement169.md) |
+| 2 | 03-11-2026 | Minimum Value to Get Positive Step by Step Sum | #1413 | Easy | Array / Prefix Sum | [View](MinimumValue1413.md) |
+| 3 | 03-11-2026 | Left and Right Sum Differences | #2574 | Easy | Array / Prefix Sum | [View](LeftRightSumDifferences2574.md) |
 
 ## Progress Summary
 
@@ -20,4 +20,3 @@ This file maintains a record of all LeetCode problems solved, along with their d
 | Hard | 0 |
 
 ---
-
