@@ -10,16 +10,17 @@ This file maintains a record of all LeetCode problems solved, along with their d
 | 2 | 03-11-2026 | Minimum Value to Get Positive Step by Step Sum | #1413 | Easy | Array / Prefix Sum | [View](MinimumValue1413.md) |
 | 3 | 03-11-2026 | Left and Right Sum Differences | #2574 | Easy | Array / Prefix Sum | [View](LeftRightSumDifferences2574.md) |
 | 4 | 03-11-2026 | Sum of All Odd Length Subarrays | #1588 | Easy | Array / Contribution Technique | [View](SumOfAllOddLengthSubarrays1588.md) |
+| 5 | 04-11-2026 | K Radius Subarray Averages | #2090 | Medium | Array / Sliding Window | [View](KRadiusSubarrayAverages2090.md) |
 
 ## Progress Summary
 
 | Category | Count |
 |---|---:|
-| Total Problems Solved | 4 |
+| Total Problems Solved | 5 |
 | Easy | 4 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---
 
-*Keep updating this tracker whenever a new problem is solved.*
+
