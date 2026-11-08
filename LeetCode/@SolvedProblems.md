@@ -11,16 +11,15 @@ This file maintains a record of all LeetCode problems solved, along with their d
 | 3 | 03-11-2026 | Left and Right Sum Differences | #2574 | Easy | Array / Prefix Sum | [View](LeftRightSumDifferences2574.md) |
 | 4 | 03-11-2026 | Sum of All Odd Length Subarrays | #1588 | Easy | Array / Contribution Technique | [View](SumOfAllOddLengthSubarrays1588.md) |
 | 5 | 04-11-2026 | K Radius Subarray Averages | #2090 | Medium | Array / Sliding Window | [View](KRadiusSubarrayAverages2090.md) |
+| 6 | 08-11-2026 | Two Sum | #1 | Easy | Array / Hash Map | [View](TwoSum1.md) |
 
 ## Progress Summary
 
 | Category | Count |
 |---|---:|
-| Total Problems Solved | 5 |
-| Easy | 4 |
+| Total Problems Solved | 6 |
+| Easy | 5 |
 | Medium | 1 |
 | Hard | 0 |
 
 ---
-
-
