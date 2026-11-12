@@ -14,16 +14,19 @@ This file maintains a record of all LeetCode problems solved, along with their d
 | 6     | 08-11-2026 | Two Sum                                        | #1       | Easy       | Array / Hash Map                | [View](TwoSum1.md) |
 | 7     | 10-11-2026 | Find Pivot Index                               | #724     | Easy       | Array / Prefix Sum              | [View](PivotIndex724.md) |
 | 8     | 10-11-2026 | Maximum Sum Circular Subarray                  | #918     | Medium     | Array / Kadane's Algorithm      | [View](MaximumSumCircularSubarray918.md) |
+| 9     | 12-11-2026 | Find Missing Elements                           | #3731    | Easy       | Array / Hash Set                | [View](FindMissingElements3731.md) |
 
 ## Progress Summary
 
 | Category              | Count |
 | --------------------- | ----- |
-| Total Problems Solved | 8     |
-| Easy                  | 6     |
+| Total Problems Solved | 9     |
+| Easy                  | 7     |
 | Medium                | 2     |
 | Hard                  | 0     |
 
 ---
+
+
 
 
