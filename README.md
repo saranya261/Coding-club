@@ -29,7 +29,7 @@ Through the Coding Club, I aim to:
 * Improve my problem-solving skills
 * Practice Data Structures and Algorithms
 * Strengthen my SQL and database concepts
-* Solve **15 LeetCode problems every day**
+
 * Work on practical coding assignments
 * Participate in hackathons
 * Improve my consistency in coding
